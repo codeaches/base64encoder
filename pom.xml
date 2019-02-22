@@ -23,7 +23,6 @@
 		<java.version>11</java.version>
 		<maven.compiler.source>${java.version}</maven.compiler.source>
 		<maven.compiler.target>${java.version}</maven.compiler.target>
-		<spring-cloud-services.version>2.1.0.RELEASE</spring-cloud-services.version>
 		<spring-cloud.version>Greenwich.RELEASE</spring-cloud.version>
 		<nexus-staging-maven-plugin.version>1.6.8</nexus-staging-maven-plugin.version>
 		<maven-gpg-plugin.version>1.6</maven-gpg-plugin.version>
@@ -156,9 +155,9 @@
 	</developers>
 
 	<scm>
-		<connection>scm:git:git://github.com/codeaches/XXXXXX</connection>
-		<developerConnection>scm:git:ssh://github.com:codeaches/XXXXXX.git</developerConnection>
-		<url>https://github.com/codeaches/XXXXXX</url>
+		<connection>scm:git:git://github.com/codeaches/scdf-base64-encoder-processor</connection>
+		<developerConnection>scm:git:ssh://github.com:codeaches/scdf-base64-encoder-processor.git</developerConnection>
+		<url>https://github.com/codeaches/scdf-base64-encoder-processor</url>
 	</scm>
 
 </project>
